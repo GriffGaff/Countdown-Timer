@@ -1,1 +1,1 @@
-Set a time in seconds and get notified when you run out of time.
+The Countdown Timer project is developed using the Python programming language and managed through Linux Bash. This project focuses on creating a functional countdown timer that allows users to set a specific duration and receive visual and/or auditory alerts when the countdown reaches zero. The integration of Python and Linux Bash provides a versatile and customizable environment for building and managing the timer application.
